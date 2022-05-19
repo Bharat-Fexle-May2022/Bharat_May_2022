@@ -5,6 +5,8 @@ int main() {
 	cout<<"Hello Git";
 	int a = 10;
 	int b = 20;
+	int a;
+	int b;
 	int x;
 	String Name;
 }
@@ -13,4 +15,5 @@ void Sum(int a, int b) {
 	cout<<a * b;
 	cout<<a / b;
 	cout<< a % b;
+	cout<<a + b;
 }
