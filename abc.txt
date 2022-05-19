@@ -3,4 +3,12 @@ using namespace std;
 int main() {
 	cout<<"Hello World";
 	cout<<"Hello Git";
+	int a;
+	int b;
+	int x;
+	String Name;
+}
+
+void Sum(int a, int b) {
+	cout<<a + b;
 }
