@@ -2,4 +2,15 @@
 using namespace std;
 int main() {
 	cout<<"Hello World";
+	cout<<"Hello Git";
+	int a = 10;
+	int b = 20;
+	int x;
+	String Name;
+}
+
+void Sum(int a, int b) {
+	cout<<a * b;
+	cout<<a / b;
+	cout<< a % b;
 }
